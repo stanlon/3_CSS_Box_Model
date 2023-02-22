@@ -9,6 +9,7 @@
     width: 500px;
     height: 600px;
     background-color: #4d0f00;
+    padding: 1px;                   /* This gives .one something solid to push off of so that it has that top margin of 20px. */
 }
 
 .one {
@@ -17,3 +18,4 @@
     background-color: #efb762;
     margin: 20px auto;
 }
+
